@@ -1,0 +1,9 @@
+{
+	"posts": [
+	{
+		"title": "Version 1.0 - Initial Release",
+		"date": "2026-11-19",
+		"body": "First version of MacroMaker, which includes:\nOn-screen editor\nTaps and Swipes\nTap randomization\nGesture recording\nImage and Color recognition\nConditioning\nFunctions & Groups\nVariables\nImport/Export macro feature\nRun statistics\nNo macro interruptions!"
+	}
+	]
+}
